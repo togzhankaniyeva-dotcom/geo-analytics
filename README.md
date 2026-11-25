@@ -57,6 +57,9 @@
 
 ## 3. Структура репозитория
 
+## 3. Структура репозитория
+
+```text
 geo-analytics/
 ├── README.md
 ├── LICENSE
@@ -71,7 +74,7 @@ geo-analytics/
 │   └── queries.sql              # SQL-запросы (JOIN, CTE, оконные)
 └── src/
     └── build_db.py              # Скрипт сборки БД
-
+```
 ---
 
 ## 4. Этапы проекта
@@ -90,11 +93,12 @@ geo-analytics/
 
 ## 5. Стек
 
+```text
 **Базы данных:** MySQL (phpMyAdmin)
 **Язык и анализ данных:** Python (pandas, numpy)
 **Визуализация:** Matplotlib, Seaborn, Power BI
 **Статистика и ML:** SciPy, Scikit-learn
-
+```
 ---
 
 ## 6. Как запустить
