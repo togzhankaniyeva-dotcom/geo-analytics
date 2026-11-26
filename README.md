@@ -138,10 +138,10 @@ pip install -r requirements.txt
 
 ### Пример работы фильтров (срезов)
 **Категория Food по всем городам:**
-![Food все города](images/food_all_cities.png)
+![Food все города](images/food_all_cities.jpg)
 
 **Категория Food в городе Дели:**
-![Food Дели](images/food_delhi.png)
+![Food Дели](images/food_delhi.jpg)
 ---
 
 ## 9. Выводы и рекомендации
